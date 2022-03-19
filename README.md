@@ -21,7 +21,6 @@ que se possa mostrar ao colaborador que vai procurar o produto (picking) onde es
 > - Poder cadastrar o pedido de compra para que os colaboradores dentro do Fullfilment possam montar o(s) pedido(s) para despachá-los.
 
 ## ✒️ Autores
-> - [Edenilson Teixeira](https://github.com/EddieMeli)
 > - [Hugo Victor](https://github.com/HugoVictorDev)
 > - [Marco Siqueira](https://github.com/siqueirama)
 > - [Maurício Nakabar](https://github.com/mnakabar)
